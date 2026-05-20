@@ -1,129 +1,128 @@
-# IDEABATIC-MECH-TEAM
-THE TEAM FOR THE MECHANICAL 
-
-# SMILE Modular Mini Cooler Project
+# IDEABATIC – Mechanical Sub Team Project Proposal
 
 ## Team Members
-
+- Benjamin
+- Antonia
 - Naythan
 - Djaafar
-- Antonia
-- Ben
 
 ---
 
 # 1. Problem Overview
 
-Reliable vaccine and medical sample cooling in remote areas is difficult due to limited infrastructure, rough terrain, and lack of continuous electricity.
+Immunisation is essential for protecting infants, newborns, and adults from disease. However, many rural communities struggle to access vaccines due to poor infrastructure, difficult terrain, and unreliable refrigeration.
 
-The SMILE (SMart Last-mILE Cooling System) project aims to improve transport of temperature-sensitive medical supplies in low-resource settings.
-
-Our project focuses on improving the modular mini drone-compatible SMILE version through improved structural design, modularity, thermal performance, and manufacturability.
+The key challenge is maintaining the vaccine cold-chain during “last mile” transport to remote locations.
 
 ---
 
-# 2. Context
+# 2. Context and Existing Solution
 
-Existing SMILE systems have demonstrated strong cooling performance in field conditions.
+IDEABATIC’s SMILE GO system is a portable passive cooling device designed for vaccine transport in low-resource environments.
 
-However, the latest mini modular prototype still has challenges including:
+Current advantages include:
+- “Last mile” healthcare delivery capability
+- Maintains low temperatures without continuous electricity
+- Portable and drone-compatible
+- Proven field performance in challenging environments
 
-- Thermal leakage at joints
+However, the current prototype still has limitations:
+- Thermal leakage
 - Door robustness
 - Manufacturability
-- Ease of assembly/disassembly
-- Structural integrity after drops
-- Ergonomics and portability
-
-The project is intended for humanitarian and medical deployment in remote environments.
+- Structural durability
+- Ease of assembly and use
+- User interaction
 
 ---
 
-# 3. Proposed Engineering Solution
+# 3. Technical Proposal
 
-Our proposed work includes:
+Our mechanical subteam has divided the project into three focused areas:
 
-- Investigation of improved modular joints and snap-fit mechanisms
-- Improved thermal sealing strategies
-- Structural redesign for drop resistance
-- Exploration of compliant mechanisms and integrated flaps/lips
-- Improved assembly and maintenance features
-- CAD prototyping and rapid manufacturing
-- Potential thermal and structural testing
+## Exterior Body — Ben
+- Redesign external shell
+- Reduce seams and improve durability
+- Improve manufacturability and assembly
+- Investigate lighter support structures
+
+## Usability and Ergonomics — Antonia
+- Handle ergonomics
+- User interaction
+- Accessibility and ease of use
+- Human factors evaluation
+
+## Vaccine Delivery Mechanism — Naythan & Djaafar
+- Door mechanism
+- Carousel/storage mechanism
+- Vaccine dispatch and replacement
+- Safe and intuitive access
+
+### Project Proposal Objective
+> “How can the SMILE GO vaccine storage and access mechanism be improved for safe, efficient, and intuitive use?”
 
 ---
 
-# 4. Technical Plan
+# 4. Design Criteria
 
-## Mechanical Design
+The vaccine delivery mechanism will be evaluated against:
 
-- CAD redesign of selected components
-- Snap-fit and modular interface exploration
-- Door mechanism optimisation
-- Carrying/handling improvements
-
-## Thermal Considerations
-
-- Reduction of cold bridges
-- Improved insulation interfaces
-- Investigation of sealing geometries
-
-## Validation
-
-Potential testing includes:
-
-- Drop testing
-- Assembly/disassembly testing
-- Thermal retention comparison
-- Ergonomic evaluation
+- Thermal seal
+- Robustness during drop testing
+- Ease and speed of vaccine dispatch
+- Ease and speed of vaccine replacement
+- Remains closed in default position
+- Manufacturability
+- Durability over repeated cycles
+- Ease of disassembly
+- Intuitive user interaction
 
 ---
 
 # 5. Wider Impact and Value
 
-This project supports healthcare delivery in remote and low-resource environments.
+The project aims to improve the reliability and accessibility of vaccine delivery in remote rural regions.
 
 Potential benefits include:
+- Improved cold-chain reliability
+- Safer and faster vaccine access
+- Easier manufacturing and maintenance
+- Better usability for healthcare workers
+- More scalable humanitarian deployment
 
-- Improved vaccine transport reliability
-- Reduced cold-chain failure
-- Lower manufacturing cost
-- Easier local repair and maintenance
-- Better scalability for humanitarian deployment
-
-This aligns with several UN Sustainable Development Goals including:
-
-- Good Health and Well-being
-- Industry, Innovation and Infrastructure
-- Reduced Inequalities
+The project aligns with healthcare accessibility and sustainable engineering goals.
 
 ---
 
-# 6. Team Strengths and Weaknesses
+# 6. Project Management Plan
 
-## Strengths
+To reduce overlap within the large project group, responsibilities have been divided into specialised subsystem teams.
 
-- CAD and prototyping
-- Engineering analysis
-- Manufacturing experience
-- Programming/electronics
-- Project management
+The mechanical subteam focuses on:
+- Exterior structure
+- Ergonomics and usability
+- Vaccine storage and access mechanisms
 
-## Weaknesses / Risks
+A separate team is focusing on thermal analysis and internal cooling performance.
 
-- Limited project timeframe
-- Limited prior thermal testing experience
-- Manufacturing constraints
+The project will primarily focus on subsystem optimisation, with integration into a final concept attempted towards the end of the project.
 
 ---
 
 # 7. Skills and Training Required
 
-- CAD refinement
-- 3D printing
-- Thermal testing
-- GitHub/documentation workflow
-- Prototype assembly
+| Team Member | Relevant Skills / Training |
+|---|---|
+| Ben | 3D printer training, laser cutter training, SolidWorks CSWA |
+| Naythan | 3D printer training, laser cutter training |
+| Djaafar | 3D printer training, laser cutter training |
+| Antonia | Ergonomics and usability evaluation |
+
+Additional skills may include:
+- CAD modelling
+- Prototyping
+- Mechanical testing
+- Human factors evaluation
 
 ---
 
@@ -131,10 +130,10 @@ This aligns with several UN Sustainable Development Goals including:
 
 | Week | Tasks |
 |---|---|
-| Week 1 | Research, concept generation, CAD review |
-| Week 2 | Prototype redesign and fabrication |
-| Week 3 | Testing and iteration |
-| Week 4 | Final validation and documentation |
+| Week 1 | Research, concept generation, subsystem planning |
+| Week 2 | CAD development and mechanism refinement |
+| Week 3 | Prototype manufacture and testing |
+| Week 4 | Integration, iteration, and final documentation |
 
 ---
 
@@ -142,37 +141,35 @@ This aligns with several UN Sustainable Development Goals including:
 
 | Item | Estimated Cost |
 |---|---|
-| 3D printing materials | £XX |
-| Fasteners/seals | £XX |
-| Foam/insulation | £XX |
-| Electronics (optional) | £XX |
+| 3D printing materials/prototype iterations | £10–30 |
+| Foam and insulation materials | £15–25 |
+| Hinges, springs, magnets, bearings, fasteners | £5–20 |
+| Rubber seals/gaskets | £5–10 |
+| Adhesives and assembly materials | £5–10 |
+| Replacement/reworked prototype parts | £10–20 |
+| **Estimated Total** | **£50–115** |
+
+Costs are subject to change depending on project scope and prototype iteration.
 
 ---
 
 # 10. Risk Assessment
 
-| Risk | Mitigation |
+| Hazard | Mitigation |
 |---|---|
-| Prototype failure | Iterative redesign |
-| Poor thermal performance | Additional insulation concepts |
-| Manufacturing delays | Simplified geometry |
-| Weak joints | Mechanical testing |
+| Use of workshop equipment | Complete relevant Dyson Centre training |
+| Sharp tools/components | Use PPE and safe workshop practice |
+| Prototype drop testing | Conduct testing in controlled areas |
+| Mechanical moving parts | Careful testing and mechanism guarding |
+| General workshop hazards | Maintain organised and supervised workspace |
 
 ---
 
 # 11. Contingency Plan
 
-If full redesign and testing cannot be completed within the project duration, the project will prioritise:
-
-- CAD redesign documentation
-- Modular interface optimisation
-- Partial prototype validation
-- Recommendations for future development
-
----
-
-# References
-
-- SMILE project materials
-- UNICEF cold-chain references
-- Previous student prototype work
+| Potential Issue | Mitigation Strategy |
+|---|---|
+| Large team causing overlap/confusion | Clear subdivision of responsibilities |
+| Time constraints within 4-week project | Focus on subsystem optimisation |
+| Mechanical integration issues | Frequent communication and design reviews |
+| Full integration not achievable | Deliver validated subsystem concepts and minimum viable prototype |
