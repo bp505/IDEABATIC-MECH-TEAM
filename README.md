@@ -1,4 +1,4 @@
-# IDEABATIC – Mechanical Sub Team Project Proposal
+# IDEABATIC - Mechanical Sub Team Project Proposal
 
 ## Team Members
 - Benjamin
@@ -40,19 +40,19 @@ However, the current prototype still has limitations:
 
 Our mechanical subteam has divided the project into three focused areas:
 
-## Exterior Body — Ben
+## Exterior Body - Ben
 - Redesign external shell
 - Reduce seams and improve durability
 - Improve manufacturability and assembly
 - Investigate lighter support structures
 
-## Usability and Ergonomics — Antonia
+## Usability and Ergonomics - Antonia
 - Handle ergonomics
 - User interaction
 - Accessibility and ease of use
 - Human factors evaluation
 
-## Vaccine Delivery Mechanism — Naythan & Djaafar
+## Vaccine Delivery Mechanism - Naythan & Djaafar
 - Door mechanism
 - Carousel/storage mechanism
 - Vaccine dispatch and replacement
