@@ -42,7 +42,7 @@ Our mechanical subteam has divided the project into three focused areas:
 
 ## Exterior Body - Ben
 - Redesign external shell
-- Reduce seams and improve durability
+- Reinforce high stress areas and improve durability
 - Improve manufacturability and assembly
 - Investigate lighter support structures
 
@@ -76,6 +76,7 @@ The vaccine delivery mechanism will be evaluated against:
 - Durability over repeated cycles
 - Ease of disassembly
 - Intuitive user interaction
+- Multiple redundency 
 
 ---
 
@@ -123,6 +124,7 @@ Additional skills may include:
 - Prototyping
 - Mechanical testing
 - Human factors evaluation
+- Protential anthropometric evaluations
 
 ---
 
@@ -161,7 +163,7 @@ Costs are subject to change depending on project scope and prototype iteration.
 | Sharp tools/components | Use PPE and safe workshop practice |
 | Prototype drop testing | Conduct testing in controlled areas |
 | Mechanical moving parts | Careful testing and mechanism guarding |
-| General workshop hazards | Maintain organised and supervised workspace |
+| General workshop hazards | Maintain organised and supervised workspace, no solo work in workshops |
 
 ---
 
@@ -171,5 +173,5 @@ Costs are subject to change depending on project scope and prototype iteration.
 |---|---|
 | Large team causing overlap/confusion | Clear subdivision of responsibilities |
 | Time constraints within 4-week project | Focus on subsystem optimisation |
-| Mechanical integration issues | Frequent communication and design reviews |
+| Mechanical integration issues | Frequent communication and design reviews|
 | Full integration not achievable | Deliver validated subsystem concepts and minimum viable prototype |
